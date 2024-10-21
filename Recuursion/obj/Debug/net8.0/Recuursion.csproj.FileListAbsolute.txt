@@ -1,0 +1,14 @@
+H:\c# projects\Recuursion\Recuursion\obj\Debug\net8.0\Recuursion.GeneratedMSBuildEditorConfig.editorconfig
+H:\c# projects\Recuursion\Recuursion\obj\Debug\net8.0\Recuursion.AssemblyInfoInputs.cache
+H:\c# projects\Recuursion\Recuursion\obj\Debug\net8.0\Recuursion.AssemblyInfo.cs
+H:\c# projects\Recuursion\Recuursion\obj\Debug\net8.0\Recuursion.csproj.CoreCompileInputs.cache
+H:\c# projects\Recuursion\Recuursion\bin\Debug\net8.0\Recuursion.exe
+H:\c# projects\Recuursion\Recuursion\bin\Debug\net8.0\Recuursion.deps.json
+H:\c# projects\Recuursion\Recuursion\bin\Debug\net8.0\Recuursion.runtimeconfig.json
+H:\c# projects\Recuursion\Recuursion\bin\Debug\net8.0\Recuursion.dll
+H:\c# projects\Recuursion\Recuursion\bin\Debug\net8.0\Recuursion.pdb
+H:\c# projects\Recuursion\Recuursion\obj\Debug\net8.0\Recuursion.dll
+H:\c# projects\Recuursion\Recuursion\obj\Debug\net8.0\refint\Recuursion.dll
+H:\c# projects\Recuursion\Recuursion\obj\Debug\net8.0\Recuursion.pdb
+H:\c# projects\Recuursion\Recuursion\obj\Debug\net8.0\Recuursion.genruntimeconfig.cache
+H:\c# projects\Recuursion\Recuursion\obj\Debug\net8.0\ref\Recuursion.dll
